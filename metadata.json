@@ -1,0 +1,5 @@
+{
+  "name": "VeggieTrade",
+  "description": "A real-time fictional vegetable commodity trading platform with live market simulations, portfolio management, and persistent tracking.",
+  "requestFramePermissions": []
+}
